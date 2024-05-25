@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T22:18:37 IST" name="Suite" finished-at="2024-05-20T22:18:37 IST" duration-ms="457">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T22:18:37 IST" name="Test" finished-at="2024-05-20T22:18:37 IST" duration-ms="457">
+      <class name="Third_Script.OrderHistory">
+        <test-method signature="OrderList()[pri:0, instance:Third_Script.OrderHistory@291a7e3c]" started-at="2024-05-20T22:18:37 IST" name="OrderList" finished-at="2024-05-20T22:18:37 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderList -->
+        <test-method signature="duplicateorder()[pri:0, instance:Third_Script.OrderHistory@291a7e3c]" started-at="2024-05-20T22:18:37 IST" name="duplicateorder" finished-at="2024-05-20T22:18:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateorder -->
+      </class> <!-- Third_Script.OrderHistory -->
+      <class name="First_Script.LoginPage">
+        <test-method signature="EmailId()[pri:0, instance:First_Script.LoginPage@d41f816]" started-at="2024-05-20T22:18:37 IST" name="EmailId" finished-at="2024-05-20T22:18:37 IST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailId -->
+        <test-method signature="MobileNo()[pri:0, instance:First_Script.LoginPage@d41f816]" started-at="2024-05-20T22:18:37 IST" name="MobileNo" finished-at="2024-05-20T22:18:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileNo -->
+        <test-method signature="Submit()[pri:0, instance:First_Script.LoginPage@d41f816]" started-at="2024-05-20T22:18:37 IST" name="Submit" finished-at="2024-05-20T22:18:37 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+      </class> <!-- First_Script.LoginPage -->
+      <class name="Second_Script.HomePage">
+        <test-method signature="CustomerLinks()[pri:0, instance:Second_Script.HomePage@7efaad5a]" started-at="2024-05-20T22:18:37 IST" name="CustomerLinks" finished-at="2024-05-20T22:18:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerLinks -->
+        <test-method signature="Menue()[pri:0, instance:Second_Script.HomePage@7efaad5a]" started-at="2024-05-20T22:18:37 IST" name="Menue" finished-at="2024-05-20T22:18:37 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menue -->
+        <test-method signature="Product()[pri:0, instance:Second_Script.HomePage@7efaad5a]" started-at="2024-05-20T22:18:37 IST" name="Product" finished-at="2024-05-20T22:18:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product -->
+        <test-method signature="SearchOption()[pri:0, instance:Second_Script.HomePage@7efaad5a]" started-at="2024-05-20T22:18:37 IST" name="SearchOption" finished-at="2024-05-20T22:18:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOption -->
+      </class> <!-- Second_Script.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

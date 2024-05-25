@@ -1,0 +1,3 @@
+<!ELEMENT suite (#PCDATA|suite-files|suite)*>
+<!ATTLIST suite name CDATA #IMPLIED>
+<!ELEMENT suite-files (#PCDATA)>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-22T22:06:54 IST" name="Suite" finished-at="2024-05-22T22:06:54 IST" duration-ms="310">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T22:06:54 IST" name="Test" finished-at="2024-05-22T22:06:54 IST" duration-ms="310">
+      <class name="First_Script.LoginPage">
+        <test-method signature="EmailId()[pri:0, instance:First_Script.LoginPage@7526515b]" started-at="2024-05-22T22:06:54 IST" name="EmailId" finished-at="2024-05-22T22:06:54 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailId -->
+        <test-method signature="MobileNo()[pri:0, instance:First_Script.LoginPage@7526515b]" started-at="2024-05-22T22:06:54 IST" name="MobileNo" finished-at="2024-05-22T22:06:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileNo -->
+        <test-method signature="Submit()[pri:0, instance:First_Script.LoginPage@7526515b]" started-at="2024-05-22T22:06:54 IST" name="Submit" finished-at="2024-05-22T22:06:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Submit -->
+      </class> <!-- First_Script.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-05-22T22:06:54 IST" name="Suite (1)" finished-at="2024-05-22T22:06:54 IST" duration-ms="17">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T22:06:54 IST" name="Test" finished-at="2024-05-22T22:06:54 IST" duration-ms="17">
+      <class name="Third_Script.OrderHistory">
+        <test-method signature="OrderList()[pri:0, instance:Third_Script.OrderHistory@353352b6]" started-at="2024-05-22T22:06:54 IST" name="OrderList" finished-at="2024-05-22T22:06:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderList -->
+        <test-method signature="duplicateorder()[pri:0, instance:Third_Script.OrderHistory@353352b6]" started-at="2024-05-22T22:06:54 IST" name="duplicateorder" finished-at="2024-05-22T22:06:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicateorder -->
+      </class> <!-- Third_Script.OrderHistory -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (1) -->
+  <suite started-at="2024-05-22T22:06:54 IST" name="Suite (0)" finished-at="2024-05-22T22:06:54 IST" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2024-05-22T22:06:54 IST" name="Test" finished-at="2024-05-22T22:06:54 IST" duration-ms="34">
+      <class name="Second_Script.HomePage">
+        <test-method signature="CustomerLinks()[pri:0, instance:Second_Script.HomePage@33bc72d1]" started-at="2024-05-22T22:06:54 IST" name="CustomerLinks" finished-at="2024-05-22T22:06:54 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CustomerLinks -->
+        <test-method signature="Menue()[pri:0, instance:Second_Script.HomePage@33bc72d1]" started-at="2024-05-22T22:06:54 IST" name="Menue" finished-at="2024-05-22T22:06:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menue -->
+        <test-method signature="Product()[pri:0, instance:Second_Script.HomePage@33bc72d1]" started-at="2024-05-22T22:06:54 IST" name="Product" finished-at="2024-05-22T22:06:54 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Product -->
+        <test-method signature="SearchOption()[pri:0, instance:Second_Script.HomePage@33bc72d1]" started-at="2024-05-22T22:06:54 IST" name="SearchOption" finished-at="2024-05-22T22:06:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOption -->
+      </class> <!-- Second_Script.HomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+  <suite started-at="2024-05-22T22:06:54 IST" name="Master Suite" finished-at="2024-05-22T22:06:54 IST" duration-ms="0">
+    <groups>
+    </groups>
+  </suite> <!-- Master Suite -->
+</testng-results>
